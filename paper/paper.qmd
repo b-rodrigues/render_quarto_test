@@ -3,6 +3,8 @@ title: "Quarto Basics"
 format: pdf
 ---
 
+Hello!
+
 Best dataset ever:
 
 ```{r}
